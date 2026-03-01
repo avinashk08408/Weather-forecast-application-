@@ -1,4 +1,4 @@
-in<html>
+<html>
   <body>
     <h1>
       ⛅Weather forecast application 
@@ -58,6 +58,7 @@ API_KEY = "YOUR_API_KEY_HERE"
 <h4>4️⃣ Run Application</h4>
 
 python weather.py
+
 
 
     
