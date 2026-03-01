@@ -1,4 +1,4 @@
-<html>
+in<html>
   <body>
     <h1>
       ⛅Weather forecast application 
@@ -45,7 +45,7 @@
 <h4>1️⃣ Clone Repository</h4>
 
 git clone
-https://github.com/avinash08408/weather-forecaste-application-
+https://github.com/avinashk08408/weather-forecaste-application-
 
 <h4>2️⃣ Install Dependencies</h4>
 
