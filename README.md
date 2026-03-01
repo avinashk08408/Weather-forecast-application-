@@ -38,6 +38,27 @@
   ▸ REST API
 
   ▸ CLI Interface
+  <h2>
+  ⚙️ Installation & Setup
+  </h2>
+
+<h3>1️⃣ Clone Repository</h3>
+
+git clone
+https://github.com/your-username/weather-app-python.git
+
+<h3>2️⃣ Install Dependencies</h3>
+
+pip install requests
+
+<h3>3️⃣ Add API Key</h3>
+
+API_KEY = "YOUR_API_KEY_HERE"
+
+<h3>4️⃣ Run Application</h3>
+
+python weather.py
+
 
     
   </body>
