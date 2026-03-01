@@ -45,7 +45,7 @@
 <h4>1️⃣ Clone Repository</h4>
 
 git clone
-https://github.com/your-username/weather-app-python.git
+https://github.com/avinash08408.github.io/weather-app-python.git
 
 <h4>2️⃣ Install Dependencies</h4>
 
