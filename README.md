@@ -8,7 +8,7 @@
     </p>
 <p>This project is designed as a portfolio-grade Python project showcasing backend logic, real-time data processing, and external API integration.
 </p>
-    <h2>🚀 Core Features</h2>
+    <h2>⚡Core Features</h2>
       <p>
 
   ▸ Search weather by city name
