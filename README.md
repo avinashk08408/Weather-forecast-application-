@@ -7,7 +7,7 @@
     </p>
 <p>This project is designed as a portfolio-grade Python project showcasing backend logic, real-time data processing, and external API integration.
 </p>
-    <h2>🚀 Features
+    <h2>🚀 Features</h2>
       <p>
 
  Search weather by city name
@@ -28,6 +28,6 @@
 
  Error handling (invalid city, API key, no internet)
 </p>
-    </h2>
+    
   </body>
 </html>
