@@ -42,7 +42,7 @@
   ⚙️ Installation & Setup
   </h2>
 
-<h3>1️⃣ Clone Repository</h3>
+<h4>1️⃣ Clone Repository</h4>
 
 git clone
 https://github.com/your-username/weather-app-python.git
