@@ -45,7 +45,7 @@
 <h4>1️⃣ Clone Repository</h4>
 
 git clone
-https://github.com/avinashk08408/weather-forecaste-application-
+https://github.com/avinashk08408/Weather-forecast-application-
 
 <h4>2️⃣ Install Dependencies</h4>
 
@@ -80,7 +80,7 @@ python
 API_KEY = "YOUR_API_KEY_HERE"
 <h2>👨‍💻Developer</h2>
 Created by Avinash
-Github:<a href="avinashk08408.github.io">avinashk08408.github.io</a>
+Github:<a href="https://github.com/avinashk08408">avinashk08408.github.io</a>
 
     
   </body>
