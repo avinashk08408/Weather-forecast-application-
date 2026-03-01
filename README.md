@@ -80,7 +80,7 @@ python
 API_KEY = "YOUR_API_KEY_HERE"
 <h2>👨‍💻Developer</h2>
 Created by Avinash
-Github:avinashk08408.github.io
+Github:<a href="avinashk08408.github.io">avinashk08408.github.io</a>
 
     
   </body>
