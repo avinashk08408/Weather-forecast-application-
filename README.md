@@ -11,33 +11,33 @@
     <h2>🚀 Core Features</h2>
       <p>
 
-➤ Search weather by city name
+  ▸ Search weather by city name
 
-➤ Live temperature
+  ▸ Live temperature
 
-➤ Feels-like temperature
+  ▸ Feels-like temperature
 
-➤ Humidity level
+  ▸ Humidity level
 
-➤ Weather condition
+  ▸ Weather condition
 
-➤ Wind speed
+  ▸ Wind speed
 
-➤ Local time display
+  ▸ Local time display
 
-➤ Multiple city search loop
+  ▸ Multiple city search loop
 </p>
 <h2>🛠️ Technologies Used</h2>
 
-Python 3
+  ▸ Python 3
 
-Requests library
+  ▸ Requests library
 
-OpenWeather API
+  ▸ OpenWeather API
 
-REST API
+  ▸ REST API
 
-CLI Interface
+  ▸ CLI Interface
 
     
   </body>
