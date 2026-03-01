@@ -78,8 +78,9 @@ Then add the key in your code:
 
 python
 API_KEY = "YOUR_API_KEY_HERE"
-
-
+<h2>👨‍💻Developer</h2>
+Created by Avinash
+Github:avinashk08408.github.io
 
     
   </body>
