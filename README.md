@@ -3,7 +3,7 @@
     <h1>
       ⛅Weather forecast application 
     </h1>
-    <h2>Description </h2>
+    <h2>📝Description </h2>
     <p>A professional Python-based Weather Forecast Application that fetches real-time weather data using API integration. This project demonstrates clean coding practices, API handling, error management, and user interaction through a command-line interface (CLI).
     </p>
 <p>This project is designed as a portfolio-grade Python project showcasing backend logic, real-time data processing, and external API integration.
