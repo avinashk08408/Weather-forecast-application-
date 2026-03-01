@@ -26,9 +26,19 @@
 ➤ Local time display
 
 ➤ Multiple city search loop
-
- Error handling (invalid city, API key, no internet)
 </p>
+<h2>🛠️ Technologies Used</h2>
+
+Python 3
+
+Requests library
+
+OpenWeather API
+
+REST API
+
+CLI Interface
+
     
   </body>
 </html>
