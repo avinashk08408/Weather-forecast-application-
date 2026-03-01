@@ -47,15 +47,15 @@
 git clone
 https://github.com/your-username/weather-app-python.git
 
-<h3>2️⃣ Install Dependencies</h3>
+<h4>2️⃣ Install Dependencies</h4>
 
 pip install requests
 
-<h3>3️⃣ Add API Key</h3>
+<h4>3️⃣ Add API Key</h4>
 
 API_KEY = "YOUR_API_KEY_HERE"
 
-<h3>4️⃣ Run Application</h3>
+<h4>4️⃣ Run Application</h4>
 
 python weather.py
 
