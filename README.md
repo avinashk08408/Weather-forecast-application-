@@ -58,6 +58,26 @@ API_KEY = "YOUR_API_KEY_HERE"
 <h4>4️⃣ Run Application</h4>
 
 python weather.py
+<h2>🔑 API Key Setup</h2>
+
+
+This project uses the OpenWeather API for fetching real-time weather data.
+
+Follow these steps to get your API key:
+
+1. Go to 👉 https://openweathermap.org  
+2. Click **Sign Up** and create an account  
+3. Verify your email  
+4. Login to your account  
+5. Click on your profile icon  
+6. Open **My API Keys**  
+7. Copy your default API key  
+8. Wait 10–15 minutes for activation  
+
+Then add the key in your code:
+
+python
+API_KEY = "YOUR_API_KEY_HERE"
 
 
 
