@@ -3,28 +3,29 @@
     <h1>
       ⛅Weather forecast application 
     </h1>
+    <h2>Description </h2>
     <p>A professional Python-based Weather Forecast Application that fetches real-time weather data using API integration. This project demonstrates clean coding practices, API handling, error management, and user interaction through a command-line interface (CLI).
     </p>
 <p>This project is designed as a portfolio-grade Python project showcasing backend logic, real-time data processing, and external API integration.
 </p>
-    <h2>🚀 Features</h2>
+    <h2>🚀 Core Features</h2>
       <p>
 
- Search weather by city name
+➤ Search weather by city name
 
- Live temperature
+➤ Live temperature
 
- Feels-like temperature
+➤ Feels-like temperature
 
- Humidity level
+➤ Humidity level
 
- Weather condition
+➤ Weather condition
 
- Wind speed
+➤ Wind speed
 
- Local time display
+➤ Local time display
 
- Multiple city search loop
+➤ Multiple city search loop
 
  Error handling (invalid city, API key, no internet)
 </p>
